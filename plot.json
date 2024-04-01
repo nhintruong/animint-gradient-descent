@@ -680,5 +680,6 @@
 ] 
 } 
 },
-"title": "Demonstration of Gradient Descent Algorithm" 
+"title": "Demonstration of Gradient Descent Algorithm",
+"source": "https://github.com/nhintruong/animint-gradient-descent/blob/master/test.medium.R"
 }
